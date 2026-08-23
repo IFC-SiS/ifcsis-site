@@ -1,0 +1,43 @@
+id: NB-03
+title: A Place to Practise
+subtitle: What a bounded environment is for, and why designation alone is not enough
+kind: Working note
+date: August 2026
+pdf: /docs/IFC-SiS_NB-03_A_Place_to_Practise_1p.pdf
+description: The strongest objection to any protected environment is that overprotection produces fragile participants. A note on the developmental case for a bounded space, and on the structural claim it must not displace.
+---
+## The claim this note must not displace
+
+The structural thesis comes first, because the developmental argument is weaker exactly where it matters. The claim is that specified harmful content is absent by admission policy, so there is nothing inside to circumvent. What follows is an account of what such a space is for. It is an addition to that claim, not a substitute for it — and a bounded space defended only as a place to practise invites the fair rebuttal that it is one environment among many, alongside a friend's device, a school screen and public wifi.
+
+## The objection worth taking seriously
+
+The account of admission, inspection and eviction is negative in form. It describes the wall and its administration, and does not say what the space is for. The strongest objection turns on exactly that omission: a child who spends every developmental year inside a safe space has learned only safe-space resilience, not the real thing. This is a serious argument made by serious people.
+
+## A licensing progression, not a fence
+
+The answer is that the space is not designed to be permanent or total. The closest civic analogy is not a fence but a graduated licence: a learner's permit, then provisional driving, then a full licence — each stage widening exposure as capability grows, none of them permanent.
+
+A child learns to ride a bicycle on a playground before entering traffic, and nobody calls the playground censorship. It is a developmental environment, and its whole purpose is to be left behind.
+
+## But the playground also carries the warning
+
+A playground is already designated. It is already zoned for children, marked as theirs, and set apart from the road. And playgrounds still fill with broken glass, discarded bottles, needles and worse — not because the designation was wrong, but because a designation is only a sign on a fence unless something governs what enters and someone maintains it afterwards.
+
+That is the difference between a label and a district. A children's space needs three things rather than one: a designation, a rule about what may come in, and a continuing obligation to keep it. Prior attempts at a children's namespace supplied the first and neither of the others.
+
+## Where the parent stands, and where the child does
+
+A parent choosing a playground is not being relieved of responsibility; they are exercising it, and the designation is what makes the choice meaningful. The architecture enlists parents rather than replacing them.
+
+But the parent is not the only party with standing, and an account given entirely through parents, registrants and regulators has left out the people it is for. Three commitments follow, and they are design requirements rather than sentiments. Children participate in developing the criteria, not merely as research subjects. A competent adolescent has a route by which their view about their own settings is heard. And any trial measures effects on access, autonomy, participation and privacy alongside reduction in specified harms — because an architecture that made children safer by making them smaller would have failed on its own terms.
+
+The last is the one most likely to be quietly dropped, and it should not be. The question is not how safe children can be made. It is whether their rights, protection among them, are better realised inside the bounded space than outside it — and that is a question with a measurable answer that could come back against us.
+
+## What the space is for
+
+A bounded environment in which a child exercises genuine autonomy — makes real choices, follows real interests, navigates a real internet — but where specified high-severity hazards have been excluded by admission policy rather than left to post-exposure detection. It does not make a child safe from other children, from their own mistakes, or from every category of harm. It removes a defined class of externally supplied hazard so that ranging freely is not reckless. Failure is instructive rather than ruinous.
+
+This is where Article 5 of the Convention on the Rights of the Child stops being an abstraction. Evolving capacities render as a place rather than a dashboard: controls that loosen as the child grows, expressed as an environment the child grows within and eventually out of, rather than a set of prohibitions a parent must perpetually administer.
+
+It follows that the space should be calibrated to the developmental window — most valuable for younger children, deliberately loosening as the child matures, and built to be outgrown. A design that made it maximally attractive to a seventeen-year-old would have failed at its own purpose.

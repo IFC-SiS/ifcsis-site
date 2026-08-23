@@ -1,0 +1,49 @@
+id: WP-03
+title: The Misallocated Burden
+subtitle: Cost allocation and regulatory path dependence in children's online safety
+kind: Working paper
+date: Fifth revision · August 2026
+pdf: /docs/IFC-SiS_WP-03_The_Misallocated_Burden_1p.pdf
+description: Before asking which party can prevent a harm more cheaply, ask whether the assigned party can prevent it at all. A working paper on how the child-safety burden came to rest with households.
+---
+## An unusual relationship
+
+A summer camp requires a parent's signature. So does a gym, a school, a paediatrician, a bank, a youth sports league, a music teacher and an employer. The instruments differ; the direction of the obligation does not. Consumer platforms form relationships of comparable duration and intensity and obtain no authorisation of any kind — and where a parent affirmatively refuses, the refusal has no operative effect.
+
+The proposition is comparative rather than absolute. Across child-serving institutions and age-restricted commerce, the adult or institution bears an affirmative obligation. Platforms are unusual in bearing none, and in permitting the relationship to originate in the child's own unverified claim.
+
+## Self-declaration is nowhere else treated as verification
+
+Where law makes age consequential, it frequently places the verification duty, or the risk of mistake, on the regulated party rather than treating the minor's unsupported representation as dispositive. Where a mistake-of-age defence exists at all, it generally requires that the regulated party have done something — inspected a document, applied a procedure — and been deceived despite it.
+
+A self-reported date-of-birth field satisfies no version of that test. It is not a verification procedure that failed; it is the absence of one.
+
+The disanalogy is conceded rather than buried. Online services are not hazardous commodities, and any argument resting on the equation deserves to fail. The comparison is offered only for the mechanics of age determination, and it survives on that ground.
+
+## Nothing was granted; an environment accumulated
+
+It is tempting to call the position an exemption, but the word implies platforms were released from a regime that already applied to them. None existed. A cluster of decisions taken between 1996 and 1998 — intermediary immunity, the standard of speech protection applied to the new medium, a narrow under-thirteen privacy regime keyed to actual knowledge, a preference for user-side filtering, and a deregulatory policy posture — each settled something adjacent, and together produced an environment in which the question was never reached.
+
+That is a weaker historical claim than a designed exemption, and a more defensible one. It is also more interesting, because path dependence explains persistence in a way a decision would not: there is no holding to overturn.
+
+## The classification step that was skipped
+
+Least-cost-avoider analysis asks which party can prevent a harm more cheaply. It presupposes an answer to a prior question — whether the proposed bearer can alter the probability of loss at all through the precaution assigned to it.
+
+The accident-law literature already contains this. Formal models distinguish unilateral precaution, where only one party can take effective care, from alternative and joint precaution, and the least-cost-avoider concept is generally understood to apply to the latter. The paper claims no discovery here. It claims that the allocation of the child-safety burden to parental filtering treated a substantially unilateral problem as an alternative one, and that the classification was never examined.
+
+If the classification is wrong, the comparison built on it does not become more accurate by being conducted more carefully.
+
+## Exclusion is not avoidance
+
+A sharper objection: a parent who removes the device entirely has avoided the harm, so the parent is an avoider after all. Road-safety regulation does not treat pedestrians as accident avoiders on the ground that they could stay indoors. The option exists; it is not what the analysis asks about. The question is who can most cheaply reduce risk conditional on the activity occurring — and the activity is a child's participation in the ordinary social, educational and civic infrastructure of their generation.
+
+Nor is the burden a literacy problem. That framing is inaccurate and strategically weak, since parents are perfectly capable of operating technology. The required knowledge is unbounded and perpetually refreshing: which applications this month, which settings survived the last update, which workaround the child learned yesterday. No quantity of competence discharges it.
+
+## The remedy has a price, and it is a subscription
+
+The burden is observable in the market that grew up to service it: standalone filtering licences, carrier family-plan add-ons, router and mesh security subscriptions, and an uncompensated labour component on top. A commercial market exists for instructions on how to operate a safety feature — which is not evidence of parental inadequacy but a price quotation on a burden exceeding ordinary capacity.
+
+The paper does not propose a remedy. Cost-allocation analysis identifies a misallocation; it does not by itself specify the correct assignment.
+---
+The full paper works through the contract-formation and unfair-practice analysis, the actual-knowledge incentive problem, and the evidentiary record behind the filtering preference. Its doctrinal material is drawn from United States law and is framed as such; the cost-allocation argument does not depend on it.
