@@ -1,0 +1,33 @@
+id: NB-01
+title: Siting the School
+subtitle: Where a child-safe environment is built, and who may occupy it
+kind: Working note
+date: August 2026
+pdf: /docs/IFC-SiS_NB-01_Siting_the_School_1p.pdf
+description: Enrollment asks who may enter a child-safe environment; siting asks what a child crosses to get there. A working note on admission as a property of construction rather than a claim about detection accuracy.
+---
+## Three questions, not one
+
+A school has a registrar, an address, and staff who have been checked. Enrollment asks who may enter; siting asks what a child crosses to get there; fitness asks who may work inside. Most attention goes to the first. This note concerns the second, and points to a companion on the third.
+
+## The walk, not the door
+
+Age assurance is the registrar, and it says nothing about the environment a child crosses. A rigorous registrar in a building sited beside a motorway satisfies its regulator and does nothing about the walk. Admission asks the other question — not who is entering, but what may be present at all. Where content was never admitted there is nothing inside to circumvent: a property of construction, not a claim about detection accuracy.
+
+## Joining is not exclusive
+
+Nothing here asks an organisation to move, to submit an estate to classification, or to choose between the open web and the district. It keeps everything it has and adds a separately addressed presence inside. You do not give up the open web to join. Inside the namespace, different rules apply — which is the whole of what a zone is. English law already knows the structure as a scheme of development: entry voluntary, area defined, rules published in advance, and holdings elsewhere untouched.
+
+## What tenancy returns
+
+For the family, one election instead of configuring child settings service by service. For the child, a bounded route rather than a safer destination — the exposure lives in the walk, not at the address. For the organisation, known neighbours, an address that carries information about the rules governing them, and a single conformance target rather than an independent reading of every jurisdiction. For the regulator, published criteria and an auditable record: evidence of structural due diligence, not a waiver of any duty.
+
+## Where the argument stops
+
+Admission cannot govern the output of a generative tutor, because that content does not exist until a child calls it into being. For such systems it governs declared properties, and runtime detection remains the primary defence — the companion note takes that up. Coverage is not complete either: the claim is that content was never admitted within the district, not that a child cannot leave it.
+
+## What is not known
+
+No write-gated child namespace has been operated at scale. Admission and error rates, cost, latency, and whether such an environment is substantively sufficient are unmeasured. That is an argument for a trial, not for a claim, and the note makes none.
+---
+The full note sets out eleven candidate trial questions, several capable of producing a negative answer.
