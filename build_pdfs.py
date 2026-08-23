@@ -33,7 +33,7 @@ def build(path):
     if tail:
         h.append('<p>%s</p>' % html.escape(tail))
     h.append('<p><strong>To request the full paper, write to shknudson@ifcsis.org.</strong></p>')
-    h.append('<p class="foot">Read this note online at ifcsis.org/papers/%s/ &nbsp;&middot;&nbsp; '
+    h.append('<p class="foot">Read this note online at ifcsis.org/%s.html &nbsp;&middot;&nbsp; '
              'The classification schema is published, versioned and open to review at standard.ifcsis.org.</p>' % slug)
     h.append('</div></body></html>')
 

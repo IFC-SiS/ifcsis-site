@@ -71,7 +71,7 @@ def req_link(title, docid):
 def build(path):
     slug = os.path.splitext(os.path.basename(path))[0]
     m, body, tail = parse(path)
-    url = "%s/papers/%s/" % (SITE, slug)
+    url = "%s/%s.html" % (SITE, slug)
     title, docid = m["title"], m["id"]
 
     ld = (
@@ -104,7 +104,7 @@ def build(path):
     h.append('<meta name="citation_publisher" content="International Foundation for Child-Safe internet Standards">')
     h.append('<meta name="citation_public_url" content="%s">' % url)
     h.append('<script type="application/ld+json">%s</script>' % ld)
-    h.append('<link rel="stylesheet" href="/assets/site.css">')
+    h.append('<link rel="stylesheet" href="/site.css">')
     h.append('</head>')
     h.append('<body>')
     h.append('')
@@ -140,9 +140,8 @@ def build(path):
     h.append('</body>')
     h.append('</html>')
 
-    d = os.path.join(ROOT, "papers", slug)
-    os.makedirs(d, exist_ok=True)
-    open(os.path.join(d, "index.html"), "w", encoding="utf-8").write("\n".join(h))
+    d = ROOT
+    open(os.path.join(d, slug + ".html"), "w", encoding="utf-8").write("\n".join(h))
     return slug, url
 
 

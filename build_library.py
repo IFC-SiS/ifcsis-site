@@ -77,7 +77,7 @@ SLUG = {
 }
 
 def card(docid, title, blurb, slug):
-    page = "/papers/%s/" % SLUG[docid]
+    page = "/%s.html" % SLUG[docid]
     A('    <article class="card">')
     A('      <span class="eyebrow">%s &middot; One-page brief</span>' % docid)
     A('      <h3>%s</h3>' % title)
