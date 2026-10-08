@@ -133,3 +133,52 @@ footer{padding:28px 64px;border-top:1px solid var(--line);display:flex;justify-c
 .paper p{font-size:15.5px;line-height:1.72;margin:0 0 16px}
 .paper-ask{margin:44px 0 28px}
 .paper-ask p{font-size:14px}
+Two things: the featured-card style, and table/blockquote styling, which the
+stylesheet has never had and which No Free Pass needs.
+
+```css
+/* Featured library entry */
+.card-feature{
+  border-left:4px solid #C9A227;
+  padding-left:26px;
+  margin-bottom:34px;
+}
+.card-feature h3{ font-size:26px; line-height:1.25; margin-top:4px; }
+.card-feature .eyebrow{ color:#C9A227; }
+.card-feature .feature-lede{ font-size:17px; line-height:1.6; }
+@media (max-width:640px){
+  .card-feature{ padding-left:18px; }
+  .card-feature h3{ font-size:22px; }
+}
+
+/* Tables and pull quotes inside papers */
+.paper-table{
+  width:100%;
+  border-collapse:collapse;
+  margin:22px 0 26px;
+  font-size:15px;
+}
+.paper-table th,
+.paper-table td{
+  text-align:left;
+  vertical-align:top;
+  padding:10px 14px 10px 0;
+  border-bottom:1px solid rgba(31,48,80,.14);
+}
+.paper-table thead th{
+  font-weight:600;
+  border-bottom:2px solid rgba(31,48,80,.3);
+}
+.paper-table tbody th{ font-weight:600; width:30%; }
+@media (max-width:640px){
+  .paper-table{ font-size:14px; }
+  .paper-table th, .paper-table td{ padding:8px 8px 8px 0; }
+}
+.paper-quote{
+  margin:20px 0 20px 0;
+  padding:4px 0 4px 20px;
+  border-left:3px solid #C9A227;
+  font-style:italic;
+  color:#3b4a63;
+}
+```
