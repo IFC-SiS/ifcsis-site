@@ -27,7 +27,7 @@ GATED = [
      "A least-cost-avoider analysis of child-safety cost allocation. Who is best placed to prevent the harm, who is actually bearing the cost of preventing it, and what follows when those are not the same party. The answer is not that anyone is acting in bad faith; it is that the burden has settled in the wrong place.",
      "The_Misallocated_Burden"),
     ("WP-04", "The Demand Side",
-     "An identification problem. Demand for child-safety provision has been inferred from instruments that move three variables at the same time, and the confound has never been isolated. The paper argues for what would have to be measured to know, and is careful not to convert that argument into a prediction.",
+     "An identification problem. Demand for child-safety provision has been inferred from instruments that move three variables at the same time, and the confound has never been isolated. The paper argues for what would have to be measured to know, and is careful not to convert that reasoning into a prediction.",
      "The_Demand_Side"),
     ("NB-01", "Siting the School",
      "A school has a registrar and an address. Enrollment asks who may enter; siting asks what a child crosses to get there. Age assurance is the registrar and says nothing about the environment. Where content was never admitted, there is nothing inside to circumvent &mdash; a property of construction rather than a claim about detection accuracy.",
@@ -48,7 +48,7 @@ OPEN = [
      "The short introduction, read against the regimes now in force: the Online Safety Act, the Age Appropriate Design Code and the Digital Services Act. Sets out why the household election rests where Article 5 of the Convention on the Rights of the Child already places it, and the five conditions that separate this from privatised censorship.",
      "IFC-SiS_EB-01_Additive_Namespace_Architecture.pdf"),
     ("GD-01", "Your Country Can Build a Safe Place for Children Online",
-     "A short guide for advocates. What to ask your government for, in one sentence, and why a protected area inside your own national domain needs no global permission to create. Written in plain terms, to be handed to someone who has never heard the argument.",
+     "A short guide for advocates. What to ask your government for, in one sentence, and why a protected area inside your own national domain needs no global permission to create. Written in plain terms, to be handed to someone who has never heard the idea.",
      "IFC-SiS_GD-01_Advocate_Guide.pdf"),
 ]
 
@@ -59,7 +59,7 @@ A('<!-- ============ LIBRARY ============ -->')
 A('<section data-view="library" hidden>')
 A('<div class="wrap">')
 A('  <span class="eyebrow">Published work</span>')
-A('  <h1 style="font-weight:700;font-size:34px;margin:0 0 18px;max-width:24ch">Read the argument, then take it apart.</h1>')
+A('  <h1 style="font-weight:700;font-size:34px;margin:0 0 18px;max-width:24ch">Read the proposal, then add to the discussion.</h1>')
 A('  <p style="margin-bottom:14px">Everything here is released for comment. Critical reactions &mdash; technical, legal, governance-related or empirical &mdash; are more useful to us than supportive ones.</p>')
 A('  <p class="muted" style="margin-bottom:36px">Each entry below has a one-page brief you can read here on the site. The full paper is sent on request, so that it can be matched to the jurisdiction and the question you are working on. Work under submission to journals and other publications is not listed.</p>')
 A('')
