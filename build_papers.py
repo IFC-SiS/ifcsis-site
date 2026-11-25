@@ -12,15 +12,15 @@ EMAIL = "shknudson@ifcsis.org"
 ROOT = os.path.dirname(os.path.abspath(__file__))
 
 NAV = """<nav>
-  <a class="brand" href="/#/">IFC-SiS</a>
+  <a class="brand" href="/">IFC-SiS</a>
   <ul>
-    <li><a href="/#/admission">Admission Layer</a></li>
-    <li><a href="/#/standard">Standard</a></li>
-    <li><a href="/#/about">About</a></li>
-    <li><a href="/#/faq">FAQ</a></li>
-    <li><a href="/#/library" aria-current="page">Library</a></li>
+    <li><a href="/admission.html">Admission Layer</a></li>
+    <li><a href="/standard.html">Standard</a></li>
+    <li><a href="/about.html">About</a></li>
+    <li><a href="/faq.html">FAQ</a></li>
+    <li><a href="/library.html" aria-current="page">Library</a></li>
   </ul>
-  <a class="btn btn-sm" href="/#/contact">Contact</a>
+  <a class="btn btn-sm" href="/contact.html">Contact</a>
 </nav>"""
 
 FOOTER = """<footer>
@@ -114,7 +114,7 @@ def build(path):
     h.append('')
     h.append('<main id="main">')
     h.append('<article class="wrap wrap-narrow paper">')
-    h.append('  <p class="paper-back"><a href="/#/library">&larr; Library</a></p>')
+    h.append('  <p class="paper-back"><a href="/library.html">&larr; Library</a></p>')
     h.append('  <span class="eyebrow">%s &middot; %s</span>' % (html.escape(docid), html.escape(m["kind"])))
     h.append('  <h1>%s</h1>' % html.escape(title))
     h.append('  <p class="paper-sub">%s</p>' % html.escape(m["subtitle"]))
