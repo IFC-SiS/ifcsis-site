@@ -12,7 +12,7 @@ EMAIL = "shknudson@ifcsis.org"
 ROOT = os.path.dirname(os.path.abspath(__file__))
 
 NAV = """<nav>
-  <a class="brand" href="/">IFC-SiS</a>
+  <a class="brand" href="/"><img src="/img/ifcsis-logo-light.png" alt="IFC-SiS" width="111" height="40"></a>
   <ul>
     <li><a href="/admission.html">Admission Layer</a></li>
     <li><a href="/standard.html">Standard</a></li>
@@ -105,6 +105,7 @@ def build(path):
     h.append('<meta name="citation_public_url" content="%s">' % url)
     h.append('<script type="application/ld+json">%s</script>' % ld)
     h.append('<link rel="stylesheet" href="/site.css">')
+    h.append('<link rel="icon" href="/favicon.ico" sizes="48x48">\n<link rel="icon" href="/img/icon-96.png" type="image/png" sizes="96x96">\n<link rel="icon" href="/img/icon-192.png" type="image/png" sizes="192x192">\n<link rel="apple-touch-icon" href="/apple-touch-icon.png">')
     h.append('</head>')
     h.append('<body>')
     h.append('')
